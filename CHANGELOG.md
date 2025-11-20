@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.3.3](https://github.com/a2aproject/a2a-go/compare/v0.3.2...v0.3.3) (2025-11-20)
+
+
+### Features
+
+* concurrency control ([#110](https://github.com/a2aproject/a2a-go/issues/110)) ([4e8bcc1](https://github.com/a2aproject/a2a-go/commit/4e8bcc106872b74ce871828e85f774bc27df8195))
+
+
+### Bug Fixes
+
+* make log package capture the source properly ([#112](https://github.com/a2aproject/a2a-go/issues/112)) ([0ec064d](https://github.com/a2aproject/a2a-go/commit/0ec064d000af0a4a34bf4957ccf5014c61f2a60d))
+
 ## [0.3.2](https://github.com/a2aproject/a2a-go/compare/v0.3.1...v0.3.2) (2025-11-14)
 
 
